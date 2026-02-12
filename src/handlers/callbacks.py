@@ -17,7 +17,8 @@ from src.handlers.keyboards import (
     get_main_menu_keyboard,
     get_category_keyboard,
     get_discounts_keyboard,
-    get_back_keyboard
+    get_back_keyboard,
+    get_city_keyboard
 )
 from src.handlers.commands import UserStates
 
